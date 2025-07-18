@@ -43,6 +43,33 @@ Project file has been uploaded
 # Second Project
 ## Project Topic: KMS Sales Analysis
 
+### Project Overview
+The goal is to extract insights from order records between 2009–2012 to support data-driven decision-making. This project provides strategic recommendations for targeting low-performing customers, optimizing shipping strategies based on order priority, and identifying the most valuable clients and products. The insights derived from this analysis serve as a foundation for data-driven decisions that can enhance marketing efforts, streamline logistics, and improve overall business performance in the Abuja division.
+
+### Data Source
+The primary source of Data used here is KMS Sql Case Study.csv, which was provided by Incubator Hub after completing their data analysis training program. TIt was shared for the purpose of hands-on project development and real-world data analysis practice.
+
+### Tools Used
+Ms Excel for Data cleaning [Download here](https://www.microsoft.com)
+- For Data Collection
+SQL Server (For Querying and Analysis)  
+
+### Expploratory Data Analysis 
+1. Product category with the highest sales
+2. Top 3 and Bottom 3 regions by sales
+3. Total sales of appliances in Ontario
+4. Strategies to grow revenue from bottom 10 customers
+5. Shipping method with the highest cost
+6. Most valuable customers & products
+7. Top small business customer by sales
+8. Corporate customer with most orders (2009–2012)
+9. Most profitable consumer customer
+10. Customers who returned items
+11. Shipping cost vs order priority assessment
+
 ### Data Analysis
 Project file has been uploaded
+
+
+
 
