@@ -37,5 +37,6 @@ EDA involved the exploring of the Data to answer some questions about the Data. 
 - Which categories have products with the highest discounts
 - Identify the top 5 products in terms of rating and number of reviews combined.. How many Number of Products per Category
 
+### Data Analysis
 
 
