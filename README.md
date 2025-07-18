@@ -38,6 +38,11 @@ EDA involved the exploring of the Data to answer some questions about the Data. 
 - Identify the top 5 products in terms of rating and number of reviews combined.. How many Number of Products per Category
 
 ### Data Analysis
+Project file has been uploaded
 
+# Second Project
+## Project Topic: KMS Sales Analysis
 
+### Data Analysis
+Project file has been uploaded
 
